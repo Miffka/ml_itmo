@@ -95,5 +95,6 @@ target/
 /instance/
 /runs/
 /data/in_class/
+/data/task4/
 /lectures/
 .~lock*
