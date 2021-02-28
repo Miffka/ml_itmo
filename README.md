@@ -12,5 +12,6 @@ pip install -e .
 * Homework 2 - [jupyter notebook](homeworks/task2/Task2_Optimizers.ipynb)
 * Homework 3 - [jupyter notebook](homeworks/task3/Task3_OneLayerMLP.ipynb)
 * Homework 4 - [jupyter notebook](homeworks/task4/CNN_and_Transfer_Learning.ipynb)
+* Homework 5 - [jupyter notebook](homeworks/task5/Task5_NLPpreprocess.ipynb)
 
 (c) Anastasia Miroshnikova
